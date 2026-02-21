@@ -1,0 +1,26 @@
+[
+  {
+    "id": "vehicle-1",
+    "title": "本田思域 2020款 1.5T 劲动版",
+    "price": 125000,
+    "condition": 9,
+    "mileage": "2万公里",
+    "year": "2020",
+    "image": "https://via.placeholder.com/360x270/0f4c81/ffffff?text=Car1",
+    "images": ["https://via.placeholder.com/360x270/0f4c81/ffffff?text=Car1"],
+    "status": "available",
+    "createdAt": "2026-02-21T00:00:00Z"
+  },
+  {
+    "id": "vehicle-2",
+    "title": "丰田卡罗拉 2019款 1.2T S-CVT GL-i",
+    "price": 98000,
+    "condition": 8.5,
+    "mileage": "3万公里",
+    "year": "2019",
+    "image": "https://via.placeholder.com/360x270/ff4d4f/ffffff?text=Car2",
+    "images": ["https://via.placeholder.com/360x270/ff4d4f/ffffff?text=Car2"],
+    "status": "available",
+    "createdAt": "2026-02-21T00:00:00Z"
+  }
+]
