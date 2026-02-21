@@ -16,14 +16,5 @@
     "price": 150000,
     "owner_id": 5,
     "id": 2
-  },
-  {
-    "brand": "大众",
-    "model": "帕萨特",
-    "year": "2021",
-    "color": "黑色",
-    "price": 180000,
-    "owner_id": 4,
-    "id": 3
   }
 ]
