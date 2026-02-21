@@ -7,5 +7,14 @@
     "price": 120000,
     "owner_id": 4,
     "id": 1
+  },
+  {
+    "brand": "本田",
+    "model": "思域",
+    "year": "2023",
+    "color": "红色",
+    "price": 150000,
+    "owner_id": 5,
+    "id": 2
   }
 ]
